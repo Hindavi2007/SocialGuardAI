@@ -1,0 +1,76 @@
+text,label
+"Hi Mom, I will be home around 6 PM for dinner today. Let me know if you need groceries.",Safe
+"Your college meeting is scheduled for tomorrow at 10 AM in the main auditorium.",Safe
+"The team standup is rescheduled to 3:30 PM. Please update your Jira board.",Safe
+"Attached is the project status report for Q3. Let me know if you have questions.",Safe
+"Thanks for dining with us! Here is your receipt for order #4892 from FreshBites.",Safe
+"Your monthly statement for July is now ready to view in your official banking portal.",Safe
+"Doctor appointment confirmed for Thursday, Sep 18 at 2:00 PM with Dr. Smith.",Safe
+"Hey Dave, can you review the pull request on GitHub when you get a chance?",Safe
+"Your library books are due in 5 days. You can renew online anytime at library.org.",Safe
+"Flight confirmation: Your flight AA-104 departs at 8:45 AM from Gate B12.",Safe
+"Your subscription renewal receipt for Spotify Premium. Amount charged: $10.99.",Safe
+"Gym membership update: The pool will be closed on Monday for annual maintenance.",Safe
+"Please find the meeting notes from yesterday's sync with the marketing department.",Safe
+"Your order has shipped via FedEx tracking number 839201948291. Expected Friday.",Safe
+"Reminder: Office holiday party is next Friday. RSVP by Wednesday if attending.",Safe
+"The weather forecast predicts heavy rain tomorrow. Drive safely!",Safe
+"Software update 14.2 is available for your device. Install at your convenience.",Safe
+"Here is the Wi-Fi password for the conference room: Welcome2026! Hope you have a great session.",Safe
+"Can we reschedule our coffee chat to Friday afternoon? Let me know what works.",Safe
+"Your Amazon package was delivered to your front porch at 1:15 PM.",Safe
+"The webinar on cloud infrastructure begins in 15 minutes. Join via Google Meet.",Safe
+"Please find attached the slides from today's engineering all-hands session.",Safe
+"Your dental cleaning checkup is booked for next Tuesday at 9:00 AM.",Safe
+"Thank you for reaching out to customer support. Your ticket #91823 has been resolved.",Safe
+"Good morning, here is the weekly product newsletter with latest release notes.",Safe
+"Your account requires immediate verification. Click here to confirm your details.",Suspicious
+"Important notice: Please verify your contact details to keep receiving service alerts.",Suspicious
+"We noticed unusual activity on your profile. Log in here to review your recent logins.",Suspicious
+"Your cloud storage is almost full. Upgrade your plan today to avoid losing access to files.",Suspicious
+"Final notice: Your subscription will expire in 24 hours. Update your payment method.",Suspicious
+"Exclusive limited time offer! You are selected to get 70% off our cybersecurity tool.",Suspicious
+"Unrecognized device logged into your social media. Tap link to review security settings.",Suspicious
+"Your package delivery is pending due to an incomplete address. Update info at link.",Suspicious
+"Action required: Confirm your billing address to prevent service disruption.",Suspicious
+"Security Alert: A new login was attempted from Moscow. If this was not you, verify now.",Suspicious
+"Your reward points are expiring at midnight. Redeem them before they are gone forever.",Suspicious
+"Tax documentation requires your review. Download the encrypted form now.",Suspicious
+"Notice of policy update: You must accept our revised terms within 48 hours.",Suspicious
+"Urgent request: Please confirm whether you authorized the $240 transaction at RetailStore.",Suspicious
+"Special voucher waiting for you! Click the link below to reveal your surprise gift.",Suspicious
+"Your mailbox quota has exceeded 95%. Click here to expand mailbox size immediately.",Suspicious
+"Pending transaction alert: Someone tried to transfer funds from your account. Click to cancel.",Suspicious
+"Attention: Your password has expired. Click link to update your corporate password.",Suspicious
+"Claim your cashback of $50 from your recent purchase. Offer valid for 2 hours.",Suspicious
+"Dear user, our system detected suspicious access. Click verify to protect your data.",Suspicious
+"Unusual sign-in activity detected on your mail account. Validate credentials to secure it.",Suspicious
+"Limited time bonus credited to your profile. Login within 6 hours to claim credit.",Suspicious
+"Notice: Your domain renewal is past due. Update credit card immediately to avoid cancellation.",Suspicious
+"Verify your shipping address to receive your pending parcel #991024.",Suspicious
+"System alert: Your device has missing security patches. Download configuration profile.",Suspicious
+"URGENT: Your bank account will be blocked today! Send your OTP immediately to verify.",Social Engineering
+"Congratulations! You have won ₹50,000 cash prize in our international lottery! Send bank details to claim.",Social Engineering
+"WARNING: Legal action has been initiated against you by the Federal Tax Department. Pay $500 fine now to avoid arrest.",Social Engineering
+"Dear Customer, Your State Bank debit card is suspended. Click http://bank-secure-update.xyz/verify and enter your PIN.",Social Engineering
+"Hi, this is CEO Mark. I am in an urgent meeting and need you to buy 5 Apple gift cards worth $100 each right now.",Social Engineering
+"SECURITY ALERT: Someone is transferring $1,200 from your account! Call 1-800-FAKE-HELP or reply with your 6-digit OTP.",Social Engineering
+"FINAL WARNING: Your Netflix account has been frozen. Enter your 16-digit card number and CVV at http://netflix-billing-resolve.top.",Social Engineering
+"You have an unclaimed inheritance of $2.5 Million USD from your late relative. Reply with passport copy and bank account.",Social Engineering
+"Dear Employee, HR requires mandatory verification. Submit your corporate password and 2FA code at http://company-login-portal.pw.",Social Engineering
+"Your WhatsApp will be deactivated within 12 hours. Send the 6-digit code you received via SMS to this number.",Social Engineering
+"IRS Notice: Immediate warrant issued for tax evasion. Transfer $1,000 via Western Union or police will arrive.",Social Engineering
+"Dear Customer, KYC expired. Update PAN card, Aadhaar, and net banking password at http://sbi-kyc-instant.online.",Social Engineering
+"Winner! Your phone number won a free iPhone 16 Pro! Pay shipping fee of $4.99 with your credit card at bit.ly/win-iphone-now.",Social Engineering
+"Emergency! Your grandson was arrested overseas and needs bail money immediately. Wire $2,000 through crypto ATM.",Social Engineering
+"PayPal Security: Your account is restricted due to fraudulent charge. Verify SSN and bank login to restore access.",Social Engineering
+"Your electricity bill is unpaid. Power supply will be disconnected at 8 PM tonight. Pay immediately to officer 9876543210.",Social Engineering
+"Amazon Fraud Department: Order for MacBook $2,499 placed. If unauthorized, download remote desktop tool QuickSupport to cancel.",Social Engineering
+"Dear User, Your computer is infected with 5 viruses! Call Microsoft Certified Support immediately at +1-888-000-FAKE.",Social Engineering
+"CRITICAL: Immediate action required. Share your One-Time Password (OTP) to stop unauthorized withdrawal.",Social Engineering
+"Bank Alert: ₹95,000 debited from your account. If not done by you, share OTP with executive to reverse charge.",Social Engineering
+"Official FBI Cyber Unit notice: Your IP address is linked to illegal activity. Transfer $1,500 security deposit to avoid imprisonment.",Social Engineering
+"Urgent notice from Bank Security: Your account will be permanently terminated within 2 hours unless you confirm your debit card PIN.",Social Engineering
+"Jackpot notification: You are selected as the lucky winner of 1 Bitcoin. Enter your secret recovery seed phrase to receive.",Social Engineering
+"Your payroll direct deposit failed! Enter your online banking username, password, and security answers immediately.",Social Engineering
+"Police Department summons: You have failed to appear in court. Settle warrant fee immediately via prepaid Visa card.",Social Engineering
