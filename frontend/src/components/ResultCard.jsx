@@ -11,6 +11,7 @@ import {
   History,
   ExternalLink,
   Lock,
+  Link2,
   ArrowRight
 } from 'lucide-react';
 import RiskMeter from './RiskMeter';
@@ -189,7 +190,7 @@ Notice: AI-generated risk estimate. Always verify independently through official
           {url_scan?.suspicious_urls?.length > 0 && (
             <div className="p-4 bg-red-500/5 dark:bg-red-500/10 rounded-xl border border-red-500/20 space-y-2">
               <div className="flex items-center text-xs font-bold text-red-600 dark:text-red-400 uppercase tracking-wider">
-                <Link2Off className="w-3.5 h-3.5 mr-1.5" />
+                <Link2 className="w-3.5 h-3.5 mr-1.5" />
                 Flagged Link Anomalies
               </div>
               <ul className="text-xs text-slate-700 dark:text-slate-300 space-y-1">

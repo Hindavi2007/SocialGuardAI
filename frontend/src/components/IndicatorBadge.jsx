@@ -7,7 +7,7 @@ import {
   Gift,
   UserCheck,
   HeartCrack,
-  Link2Off,
+  Link2,
   AlertTriangle,
   FileWarning
 } from 'lucide-react';
@@ -26,7 +26,7 @@ export default function IndicatorBadge({ indicator, severity }) {
     if (lower.includes('reward') || lower.includes('prize') || lower.includes('lottery')) return <Gift className="w-3.5 h-3.5 mr-1.5" />;
     if (lower.includes('authority') || lower.includes('impersonation')) return <UserCheck className="w-3.5 h-3.5 mr-1.5" />;
     if (lower.includes('emotion')) return <HeartCrack className="w-3.5 h-3.5 mr-1.5" />;
-    if (lower.includes('link')) return <Link2Off className="w-3.5 h-3.5 mr-1.5" />;
+    if (lower.includes('link')) return <Link2 className="w-3.5 h-3.5 mr-1.5" />;
     return <AlertTriangle className="w-3.5 h-3.5 mr-1.5" />;
   };
 
